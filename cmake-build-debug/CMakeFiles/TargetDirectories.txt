@@ -1,0 +1,3 @@
+C:/Users/login/Desktop/MTRP/cmake-build-debug/CMakeFiles/2024_12.dir
+C:/Users/login/Desktop/MTRP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/login/Desktop/MTRP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
